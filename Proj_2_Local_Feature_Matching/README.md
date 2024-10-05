@@ -1,0 +1,1 @@
+Proj 2: Local Feature Matching Implement interest point detector, SIFT-like local feature descriptor, and simple matching algorithm.
